@@ -8,23 +8,37 @@ import os
 import sys
 os.system("title WARP-PLUS-CLOUDFLARE By ALIILAPRO")
 os.system('cls' if os.name == 'nt' else 'clear')
-print('      _______ _      __________________       _______ _______ _______ _______\n'
-'     (  ___  | \     \__   __|__   __( \     (  ___  |  ____ |  ____ |  ___  )\n'
-'     | (   ) | (        ) (     ) (  | (     | (   ) | (    )| (    )| (   ) |\n'
-'     | (___) | |        | |     | |  | |     | (___) | (____)| (____)| |   | |\n'
-'     |  ___  | |        | |     | |  | |     |  ___  |  _____)     __) |   | |\n'
-'     | (   ) | |        | |     | |  | |     | (   ) | (     | (\ (  | |   | |\n'
-'     | )   ( | (____/\__) (_____) (__| (____/\ )   ( | )     | ) \ \_| (___) |\n'
-'     |/     \(_______|_______|_______(_______//     \|/      |/   \__(_______)\n')
-print ("[+] ABOUT SCRIPT:")
-print ("[-] With this script, you can getting unlimited GB on Warp+.")
-print ("[-] Version: 4.0.0")
+print('██░▀██████████████▀░██\n'
+'      █▌▒▒░████████████░▒▒▐█\n'
+'      █░▒▒▒░██████████░▒▒▒░█\n'
+'      ▌░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░▐\n'
+'      ░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░\n'
+'      ███▀▀▀██▄▒▒▒▒▒▒▒▄██▀▀▀██\n'
+'      ██░░░▐█░▀█▒▒▒▒▒█▀░█▌░░░█\n'
+'     ▐▌░░░▐▄▌░▐▌▒▒▒▐▌░▐▄▌░░▐▌\n'
+'     █░░░▐█▌░░▌▒▒▒▐░░▐█▌░░█\n'
+'     ▒▀▄▄▄█▄▄▄▌░▄░▐▄▄▄█▄▄▀▒\n'
+'     ░░░░░░░░░░└┴┘░░░░░░░░░\n'
+'     ██▄▄░░░░░░░░░░░░░░▄▄██\n'
+'     ████████▒▒▒▒▒▒████████\n'
+'     █▀░░███▒▒░░▒░░▒▀██████\n'
+'     █▒░███▒▒╖░░╥░░╓▒▐█████\n'
+'     █▒░▀▀▀░░║░░║░░║░░█████\n'
+'     ██▄▄▄▄▀▀┴┴╚╧╧╝╧╧╝┴┴███\n'
+'     ██████████████████████\n'
+'   ╔═╗──────────╔══╗──────────╔╗╔╗─── \n'
+'   ║╬║╔╦╗╔═╗─╔═╗║══╣╔═╗╔═╦╗╔═╗║╚╝║╔══╗╔═╗╔═╗\n'
+'   ║╔╝║║║║╬╚╗║╩╣╠══║║╬║║║║║║╩╣║╔╗║║║║║║╬║║╬║ \n'
+'   ╚╝─╠╗║╚══╝╚═╝╚══╝╚═╝╚╩═╝╚═╝╚╝╚╝╚╩╩╝╚═╝╚═╝\n'
+'   ───╚═╝───────────────────────────\n')
+print ("[+] By Pyae Sone Hmoo:")
+print ("[-] code Copy crd.")
+print ("[-] Version: 1.0")
 print ("--------")
-print ("[+] THIS SCRIPT CODDED BY ALIILAPRO") 
-print ("[-] SITE: aliilapro.github.io") 
-print ("[-] TELEGRAM: aliilapro")
+print ("[+] We are Myanmar") 
+print ("[-] Zero_@290G")
 print ("--------")
-referrer = input("[#] Enter the WARP+ ID:")
+referrer = input("[#] Enter the  ID:")
 def genString(stringLength):
 	try:
 		letters = string.ascii_letters + string.digits
@@ -71,23 +85,23 @@ while True:
 		g = g + 1
 		os.system('cls' if os.name == 'nt' else 'clear')
 		print("")
-		print("                  WARP-PLUS-CLOUDFLARE (script)" + " By ALIILAPRO")
+		print("                  I Love you Baba")
 		print("")
-		animation = ["[■□□□□□□□□□] 10%","[■■□□□□□□□□] 20%", "[■■■□□□□□□□] 30%", "[■■■■□□□□□□] 40%", "[■■■■■□□□□□] 50%", "[■■■■■■□□□□] 60%", "[■■■■■■■□□□] 70%", "[■■■■■■■■□□] 80%", "[■■■■■■■■■□] 90%", "[■■■■■■■■■■] 100%"] 
+		animation = ["I Love You 10","I Love You 20%", "I Love You 30%", "I Love you 40%", " I Love You 50%", "I Love You 60%", "I Love You 70%", "I Love You 80%", "I Love You 90%", "I Love You 100%"] 
 		for i in range(len(animation)):
 			time.sleep(0.5)
 			sys.stdout.write("\r[+] Preparing... " + animation[i % len(animation)])
 			sys.stdout.flush()
-		print(f"\n[-] WORK ON ID: {referrer}")    
-		print(f"[:)] {g} GB has been successfully added to your account.")
+		print(f"\n[-]  ID: {referrer}")    
+		print(f"[:)] {g} GB hacek your account.")
 		print(f"[#] Total: {g} Good {b} Bad")
-		print("[*] After 18 seconds, a new request will be sent.")
+	       print(" please ")
 		time.sleep(18)
 	else:
 		b = b + 1
 		os.system('cls' if os.name == 'nt' else 'clear')
 		print("")
-		print("                  WARP-PLUS-CLOUDFLARE (script)" + " By ALIILAPRO")
+		print("                  " By Zero_@290G")
 		print("")
 		print("[:(] Error when connecting to server.")
 		print(f"[#] Total: {g} Good {b} Bad")	
