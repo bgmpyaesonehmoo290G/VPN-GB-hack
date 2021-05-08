@@ -95,7 +95,8 @@ while True:
 		print(f"\n[-]  ID: {referrer}")    
 		print(f"[:)] {g} GB hacek your account.")
 		print(f"[#] Total: {g} Good {b} Bad")
-	       print("{*}set.")
+	       print("[*] After 18 seconds, a new request will be sent.")
+
 		time.sleep(18)
 	else:
 		b = b + 1
