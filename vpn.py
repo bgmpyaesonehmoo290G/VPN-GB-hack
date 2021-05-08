@@ -85,7 +85,7 @@ while True:
 		g = g + 1
 		os.system('cls' if os.name == 'nt' else 'clear')
 		print("")
-		print("                 " I Love you Baba")
+		print("                  I Love you Baba"+"Cx lar")
 		print("")
 		animation = ["I Love You 10","I Love You 20%", "I Love You 30%", "I Love you 40%", " I Love You 50%", "I Love You 60%", "I Love You 70%", "I Love You 80%", "I Love You 90%", "I Love You 100%"] 
 		for i in range(len(animation)):
@@ -101,7 +101,7 @@ while True:
 		b = b + 1
 		os.system('cls' if os.name == 'nt' else 'clear')
 		print("")
-		print("                  " By Zero_@290G")
+		print("                  " By Zero_@290G"+"Myanmar" )
 		print("")
 		print("[:(] Error when connecting to server.")
 		print(f"[#] Total: {g} Good {b} Bad")	
