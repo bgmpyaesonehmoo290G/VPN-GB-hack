@@ -101,7 +101,7 @@ while True:
 		b = b + 1
 		os.system('cls' if os.name == 'nt' else 'clear')
 		print("")
-		print("                  " By Zero_@290G"+"Myanmar" )
+		print("                   By Zero_@290G"+"Myanmar" )
 		print("")
 		print("[:(] Error when connecting to server.")
 		print(f"[#] Total: {g} Good {b} Bad")	
