@@ -95,7 +95,7 @@ while True:
 		print(f"\n[-]  ID: {referrer}")    
 		print(f"[:)] {g} GB hacek your account.")
 		print(f"[#] Total: {g} Good {b} Bad")
-	       print(" please ")
+	       print("{*}set.")
 		time.sleep(18)
 	else:
 		b = b + 1
