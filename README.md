@@ -1,2 +1,5 @@
 # VPN-GB-hack
-I Love you
+## pkg install python3
+## git clone https://github.com/bgmpyaesonehmoo290G/VPN-GB-hack
+## cd VPN-GB-hack
+## python3 vpn.py
